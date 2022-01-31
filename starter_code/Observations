@@ -1,0 +1,5 @@
+Main Observations
+1.  There is a clear negative linear correlation between max temperature and latitude (r-value = -0.87; r^2-value = 0.75). Nevertheless, in the South Hemisphere, there is only a slight positive linear correlation between these 2 variables.
+2.  When comparing humidity vs latitude, both for the Northern and Southern Hemispheres, there is a slight week linear correlation. This correlation is positive for both hemispheres.
+3. When looking at cloudiness vs latitude, you can see that there is no linear correlation at all. Cloudiness is not determined by latitude, since the points in the graphs are randomized.
+4. Same thing happends with wind speed vs latitude. The r^2 is really close to 0, which means that there is no correlation between these 2 variables either.
